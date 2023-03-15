@@ -3,6 +3,14 @@
     padding: 0;
     box-sizing: border-box;
 }
+// Header section starts
+#info-header{
+    
+    display: flex;
+    justify-content: space-between;
+    background-color: aqua;
+}
 .logo{
     width: 200px;
 }
+// Header section ends

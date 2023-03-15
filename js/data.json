@@ -1,0 +1,193 @@
+ {
+    "phone": {
+        "Iphone":{
+            "IphoneX":[
+                {"name":"Iphone X",
+                "price":1000,
+                "color":"black",
+                "memory":64},
+                {"name":"Iphone X",
+                "price":1200,
+                "color":"red",
+                "memory":128},
+                {"name":"Iphone X",
+                "price":1400,
+                "color":"blue",
+                "memory":256}
+            ],
+            "Iphone7":[
+                {"name":"Iphone 7",
+                "price":900,
+                "color":"red",
+                "memory":128},
+                {"name":"Iphone 7",
+                "price":1100,
+                "color":"black",
+                "memory":256},
+                {"name":"Iphone 7",
+                "price":1300,
+                "color":"blue",
+                "memory":64}
+            ],
+            "Iphone12":[
+                {"name":"Iphone 12",
+                "price":1200,
+                "color":"red",
+                "memory":128},
+                {"name":"Iphone 12",
+                "price":1400,
+                "color":"black",
+                "memory":256},
+                {"name":"Iphone 12",
+                "price":900,
+                "color":"blue",
+                "memory":64}
+            ]
+        },
+        "Samsung":{
+            "SamsungS20":[
+                {"name":"Samsung S20",
+                "price":1200,
+                "color":"blue",
+                "memory":128},
+                {"name":"Samsung S20",
+                "price":1400,
+                "color":"red",
+                "memory":128},
+                {"name":"Samsung S20",
+                "price":1600,
+                "color":"black",
+                "memory":64}
+            ],
+            "SamsungS3Mini":[
+                {"name":"Samsung S3 mini",
+                "price":600,
+                "color":"black",
+                "memory":128},
+                {"name":"Samsung S3 mini",
+                "price":800,
+                "color":"blue",
+                "memory":64},
+                {"name":"Samsung S3 mini",
+                "price":900,
+                "color":"red",
+                "memory":256}
+            ]
+        },
+        "Xiaomi:":{
+            "XiaomiNote8":[
+                {"name":"Xiaomi Note 8",
+                "price":1200,
+                "color":"black",
+                "memory":128},
+                {"name":"Xiaomi Note 8",
+                "price":1350,
+                "color":"blue",
+                "memory":256},
+                {"name":"Xiaomi Note 8",
+                "price":1600,
+                "color":"red",
+                "memory":64}
+            ],
+            "XiamoiPoco":[
+                {"name":"Xiamoi Poco",
+                "price":600,
+                "color":"red",
+                "memory":128},
+                {"name":"Xiamoi Poco",
+                "price":500,
+                "color":"blue",
+                "memory":64},
+                {"name":"Xiamoi Poco",
+                "price":800,
+                "color":"black",
+                "memory":256}
+            ]
+        }
+        
+    },
+    "Laptop":{
+        "HP":[
+            {"name":"HP Pavilion",
+            "price":1200,
+            "color":"red",
+            "ram":16},
+            {"name":"HP Pavilion",
+            "price":1100,
+            "color":"black",
+            "ram":16},
+            {"name":"HP ENVY",
+            "price":1000,
+            "color":"black",
+            "ram":8},
+            {"name":"HP ENVY",
+            "price":1200,
+            "color":"blue",
+            "ram":6},
+            {"name":"HP Chromebook",
+            "price":1000,
+            "color":"red",
+            "ram":4},
+            {"name":"HP Pavilion",
+            "price":900,
+            "color":"black",
+            "ram":4}
+        ],
+        "Dell":[
+            {"name":"Dell Vostro",
+            "price":1400,
+            "color":"black",
+            "ram":16},
+            {"name":"Dell Vostro",
+            "price":1400,
+            "color":"black",
+            "ram":4},
+            {"name":"Dell XPS",
+            "price":1250,
+            "color":"blue",
+            "ram":4},
+            {"name":"Dell XPS",
+            "price":1100,
+            "color":"red",
+            "ram":8},
+            {"name":"Dell Latitude",
+            "price":1300,
+            "color":"red",
+            "ram":8},
+            {"name":"Dell Latitude",
+            "price":1900,
+            "color":"black",
+            "ram":8}
+        ]
+    },
+    "PlayStation":{
+        "PlayStation4":[
+            {"name":"PlayStation 4",
+            "price":1900,
+            "color":"black",
+            "memory":1},
+            {"name":"PlayStation 4",
+            "price":1600,
+            "color":"black",
+            "memory":0.6},
+            {"name":"PlayStation 4",
+            "price":1400,
+            "color":"black",
+            "memory":0.5}
+        ],
+        "PlayStation5":[
+            {"name":"PlayStation 5",
+            "price":2100,
+            "color":"black",
+            "memory":1},
+            {"name":"PlayStation 5",
+            "price":1900,
+            "color":"black",
+            "memory":0.6},
+            {"name":"PlayStation 5",
+            "price":1700,
+            "color":"black",
+            "memory":0.5}
+        ]
+    }
+}
