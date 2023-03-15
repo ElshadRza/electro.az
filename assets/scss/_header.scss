@@ -38,9 +38,18 @@
     position: absolute;
     right:10px;
  }
+ .sign-in-label{
+    text-decoration: none;
+    color: black;
+ }
  .sign-in, .add-to-cart {
     transition: all 0.3s;
     cursor: pointer;
+   
+ }
+ .sign-in-label:hover{
+    text-decoration: none;
+    color:red;
  }
  .sign-in:hover, .add-to-cart:hover {
     color: red;
